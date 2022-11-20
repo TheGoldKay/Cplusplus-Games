@@ -1,2 +1,2 @@
-# Cplusplus-Games
-Cplusplus Games Made In RayLib
+# C++ Games
+C++ Games Made In RayLib
